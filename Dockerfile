@@ -1,4 +1,6 @@
 # use a node base image
+#have used node a a base image to build the artifact into build directory, then the content of this dir is copied to the webserver. 
+
 FROM node:12-alpine3.14 AS builder
 
 # set maintainer
