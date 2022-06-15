@@ -39,9 +39,9 @@ const CommonConfig = {
     // Whether to add the free Palestine screen at the start
     addFreePalestine: false,
     // Name that will be displayed at the top
-    name: 'fawad ali',
+    name: 'Mehmood ali',
     // Tagline that will be displayed after the name
-    tagline: 'software engineer',
+    tagline: 'DevOps Engineer',
     // Configuration for signature in the top section
     signature: {
         // Viewbox of the signature SVG
@@ -65,25 +65,25 @@ const CommonConfig = {
         c12.1-4.7,24.1-9.4,36.3-13.7c10.6-3.7,21.4-7.1,32.3-9.9`,
 
     },
-    email: 'm.fawaadali98@gmail.com',
+    email: 'mehmuud.94@gmail.com',
     // Information for social media accounts
     social: [
         {
             // Name of the social media platform
             name: 'GitHub',
             // Link to your account
-            link: 'https://github.com/9inpachi',
+            link: 'https://github.com/tech-v',
             // (Optional) Icon of the social media platform
             // default icon will be used in case of no value
             icon: Icons['github']
         },
         {
             name: 'LinkedIn',
-            link: 'https://linkedin.com/in/fawadaliq'
+            link: 'https://www.linkedin.com/in/mehmood-ali-7aa477ab/'
         },
         {
             name: 'Facebook',
-            link: 'https://facebook.com/9inpachi'
+            link: 'https://www.facebook.com/profile.php?id=100010747471684'
         },
         {
             name: 'Twitter',
@@ -91,11 +91,11 @@ const CommonConfig = {
         },
         {
             name: 'Email',
-            link: 'mailto:m.fawaadali98@gmail.com'
+            link: 'mailto:mehmuud.94@gmail.com'
         },
         {
             name: 'CV',
-            link: 'https://docs.google.com/document/d/15uVQAhsvKsreOd9Xvh9f-HGMkqpI_7dMuSKmQQvFdCo/view?usp=sharing',
+            link: 'https://docs.google.com/document/d/e/2PACX-1vSwELypQ3Aq9_eD2cxQyEHaZxVdnTaLfm8Tb1YstMSnz2uNRQ5HYpinqBNg8odD7ZMUYmEO7Nbej6kt/pub',
             icon: <Description />
         }
     ]
@@ -115,11 +115,11 @@ const ProjectsConfig = {
     projects: [
         {
             // Name of the project
-            name: 'Interactive Maps Application',
+            name: 'S3-FS backups on AWS',
             // Icon of the project
             icon: Icons['map'],
             // Description of the project
-            description: 'An application extension in XWiki to easily create interactive maps with ability to share locations and associate structured data with areas.',
+            description: 'EC2 instance integrated with S3 bucket facing the world as password protected FTP server to store backups',
             // Links to the project
             links: [
                 {
